@@ -1,0 +1,29 @@
+Dla wszystkichg 128 stacji
+    Total sum: 88081850.0 Mb/doba
+
+Dla 10% straty stacji
+    Total sum: 75053850.0 Mb/doba
+
+Dal 20% utraty stacji
+    Total sum: 73655350.0 Mb/doba
+
+Dla 30% utraty stacji
+    Total sum: 69401150.0 Mb/doba
+
+
+Strata WYLACZNIE biegunów
+    Total sum: 71535450.0 Mb/doba
+
+
+
+
+Gorszy scenariusz, starat satelitów
+
+Dla 10% starat satelit na orbicie
+    Total sum: 79827500.0 Mb/doba
+
+Dla 20% starat satelit na orbicie
+    Total sum: 71565100.0 Mb/doba
+
+Dla 30% starat satelit na orbicie
+    Total sum: 61947025.0 Mb/doba

@@ -1,0 +1,322 @@
+[
+    {
+      "sat_no": "Sat_1_1",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "sat_no": "Sat_1_2",
+      "latitude": 90,
+      "longitude": 0
+    },
+    {
+      "sat_no": "Sat_1_3",
+      "latitude": 180,
+      "longitude": 0
+    },
+    {
+      "sat_no": "Sat_1_4",
+      "latitude": -90,
+      "longitude": 0
+    },
+    {
+      "sat_no": "Sat_2_1",
+      "latitude": 0,
+      "longitude": 11.25
+    },
+    {
+      "sat_no": "Sat_2_2",
+      "latitude": 90,
+      "longitude": 11.25
+    },
+    {
+      "sat_no": "Sat_2_3",
+      "latitude": 180,
+      "longitude": 11.25
+    },
+    {
+      "sat_no": "Sat_2_4",
+      "latitude": -90,
+      "longitude": 11.25
+    },
+    {
+      "sat_no": "Sat_3_1",
+      "latitude": 0,
+      "longitude": 22.5
+    },
+    {
+      "sat_no": "Sat_3_2",
+      "latitude": 90,
+      "longitude": 22.5
+    },
+    {
+      "sat_no": "Sat_3_3",
+      "latitude": 180,
+      "longitude": 22.5
+    },
+    {
+      "sat_no": "Sat_3_4",
+      "latitude": -90,
+      "longitude": 22.5
+    },
+    {
+      "sat_no": "Sat_4_1",
+      "latitude": 0,
+      "longitude": 33.75
+    },
+    {
+      "sat_no": "Sat_4_2",
+      "latitude": 90,
+      "longitude": 33.75
+    },
+    {
+      "sat_no": "Sat_4_3",
+      "latitude": 180,
+      "longitude": 33.75
+    },
+    {
+      "sat_no": "Sat_4_4",
+      "latitude": -90,
+      "longitude": 33.75
+    },
+    {
+      "sat_no": "Sat_5_1",
+      "latitude": 0,
+      "longitude": 45
+    },
+    {
+      "sat_no": "Sat_5_2",
+      "latitude": 90,
+      "longitude": 45
+    },
+    {
+      "sat_no": "Sat_5_3",
+      "latitude": 180,
+      "longitude": 45
+    },
+    {
+      "sat_no": "Sat_5_4",
+      "latitude": -90,
+      "longitude": 45
+    },
+    {
+      "sat_no": "Sat_6_1",
+      "latitude": 0,
+      "longitude": 56.25
+    },
+    {
+      "sat_no": "Sat_6_2",
+      "latitude": 90,
+      "longitude": 56.25
+    },
+    {
+      "sat_no": "Sat_6_3",
+      "latitude": 180,
+      "longitude": 56.25
+    },
+    {
+      "sat_no": "Sat_6_4",
+      "latitude": -90,
+      "longitude": 56.25
+    },
+    {
+      "sat_no": "Sat_7_1",
+      "latitude": 0,
+      "longitude": 67.5
+    },
+    {
+      "sat_no": "Sat_7_2",
+      "latitude": 90,
+      "longitude": 67.5
+    },
+    {
+      "sat_no": "Sat_7_3",
+      "latitude": 180,
+      "longitude": 67.5
+    },
+    {
+      "sat_no": "Sat_7_4",
+      "latitude": -90,
+      "longitude": 67.5
+    },
+    {
+      "sat_no": "Sat_8_1",
+      "latitude": 0,
+      "longitude": 78.75
+    },
+    {
+      "sat_no": "Sat_8_2",
+      "latitude": 90,
+      "longitude": 78.75
+    },
+    {
+      "sat_no": "Sat_8_3",
+      "latitude": 180,
+      "longitude": 78.75
+    },
+    {
+      "sat_no": "Sat_8_4",
+      "latitude": -90,
+      "longitude": 78.75
+    },
+    {
+      "sat_no": "Sat_9_1",
+      "latitude": 0,
+      "longitude": 90
+    },
+    {
+      "sat_no": "Sat_9_2",
+      "latitude": 90,
+      "longitude": 90
+    },
+    {
+      "sat_no": "Sat_9_3",
+      "latitude": 180,
+      "longitude": 90
+    },
+    {
+      "sat_no": "Sat_9_4",
+      "latitude": -90,
+      "longitude": 90
+    },
+    {
+      "sat_no": "Sat_10_1",
+      "latitude": 0,
+      "longitude": 101.25
+    },
+    {
+      "sat_no": "Sat_10_2",
+      "latitude": 90,
+      "longitude": 101.25
+    },
+    {
+      "sat_no": "Sat_10_3",
+      "latitude": 180,
+      "longitude": 101.25
+    },
+    {
+      "sat_no": "Sat_10_4",
+      "latitude": -90,
+      "longitude": 101.25
+    },
+    {
+      "sat_no": "Sat_11_1",
+      "latitude": 0,
+      "longitude": 112.5
+    },
+    {
+      "sat_no": "Sat_11_2",
+      "latitude": 90,
+      "longitude": 112.5
+    },
+    {
+      "sat_no": "Sat_11_3",
+      "latitude": 180,
+      "longitude": 112.5
+    },
+    {
+      "sat_no": "Sat_11_4",
+      "latitude": -90,
+      "longitude": 112.5
+    },
+    {
+      "sat_no": "Sat_12_1",
+      "latitude": 0,
+      "longitude": 123.75
+    },
+    {
+      "sat_no": "Sat_12_2",
+      "latitude": 90,
+      "longitude": 123.75
+    },
+    {
+      "sat_no": "Sat_12_3",
+      "latitude": 180,
+      "longitude": 123.75
+    },
+    {
+      "sat_no": "Sat_12_4",
+      "latitude": -90,
+      "longitude": 123.75
+    },
+    {
+      "sat_no": "Sat_13_1",
+      "latitude": 0,
+      "longitude": 135
+    },
+    {
+      "sat_no": "Sat_13_2",
+      "latitude": 90,
+      "longitude": 135
+    },
+    {
+      "sat_no": "Sat_13_3",
+      "latitude": 180,
+      "longitude": 135
+    },
+    {
+      "sat_no": "Sat_13_4",
+      "latitude": -90,
+      "longitude": 135
+    },
+    {
+      "sat_no": "Sat_14_1",
+      "latitude": 0,
+      "longitude": 146.25
+    },
+    {
+      "sat_no": "Sat_14_2",
+      "latitude": 90,
+      "longitude": 146.25
+    },
+    {
+      "sat_no": "Sat_14_3",
+      "latitude": 180,
+      "longitude": 146.25
+    },
+    {
+      "sat_no": "Sat_14_4",
+      "latitude": -90,
+      "longitude": 146.25
+    },
+    {
+      "sat_no": "Sat_15_1",
+      "latitude": 0,
+      "longitude": 157.5
+    },
+    {
+      "sat_no": "Sat_15_2",
+      "latitude": 90,
+      "longitude": 157.5
+    },
+    {
+      "sat_no": "Sat_15_3",
+      "latitude": 180,
+      "longitude": 157.5
+    },
+    {
+      "sat_no": "Sat_15_4",
+      "latitude": -90,
+      "longitude": 157.5
+    },
+    {
+      "sat_no": "Sat_16_1",
+      "latitude": 0,
+      "longitude": 168.75
+    },
+    {
+      "sat_no": "Sat_16_2",
+      "latitude": 90,
+      "longitude": 168.75
+    },
+    {
+      "sat_no": "Sat_16_3",
+      "latitude": 180,
+      "longitude": 168.75
+    },
+    {
+      "sat_no": "Sat_16_4",
+      "latitude": -90,
+      "longitude": 168.75
+    }
+]

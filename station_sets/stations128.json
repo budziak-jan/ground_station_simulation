@@ -1,0 +1,770 @@
+[
+    {
+        "near": "Location1",
+        "station": "GroundStation1",
+        "latitude": 90.0,
+        "longitude": 0.0
+    },
+    {
+        "near": "Location2",
+        "station": "GroundStation2",
+        "latitude": 79.81825161166374,
+        "longitude": 137.50776405003785
+    },
+    {
+        "near": "Location3",
+        "station": "GroundStation3",
+        "latitude": 75.58175882662185,
+        "longitude": -84.98447189992432
+    },
+    {
+        "near": "Location4",
+        "station": "GroundStation4",
+        "latitude": 72.31780315122703,
+        "longitude": 52.5232921501135
+    },
+    {
+        "near": "Location5",
+        "station": "GroundStation5",
+        "latitude": 69.55499039178956,
+        "longitude": -169.96894379984863
+    },
+    {
+        "near": "Location6",
+        "station": "GroundStation6",
+        "latitude": 67.1109628036546,
+        "longitude": -32.46117974981078
+    },
+    {
+        "near": "Location7",
+        "station": "GroundStation7",
+        "latitude": 64.89230384831565,
+        "longitude": 105.046584300227
+    },
+    {
+        "near": "Location8",
+        "station": "GroundStation8",
+        "latitude": 62.84357852411154,
+        "longitude": -117.44565164973505
+    },
+    {
+        "near": "Location9",
+        "station": "GroundStation9",
+        "latitude": 60.92870290259387,
+        "longitude": 20.062112400302713
+    },
+    {
+        "near": "Location10",
+        "station": "GroundStation10",
+        "latitude": 59.12263506636361,
+        "longitude": 157.56987645034047
+    },
+    {
+        "near": "Location11",
+        "station": "GroundStation11",
+        "latitude": 57.4071564696852,
+        "longitude": -64.92235949962156
+    },
+    {
+        "near": "Location12",
+        "station": "GroundStation12",
+        "latitude": 55.76852299064568,
+        "longitude": 72.58540455041621
+    },
+    {
+        "near": "Location13",
+        "station": "GroundStation13",
+        "latitude": 54.196062953745795,
+        "longitude": -149.90683139954604
+    },
+    {
+        "near": "Location14",
+        "station": "GroundStation14",
+        "latitude": 52.68129361838407,
+        "longitude": -12.399067349508062
+    },
+    {
+        "near": "Location15",
+        "station": "GroundStation15",
+        "latitude": 51.217339486051024,
+        "longitude": 125.1086967005299
+    },
+    {
+        "near": "Location16",
+        "station": "GroundStation16",
+        "latitude": 49.798535260008016,
+        "longitude": -97.38353924943254
+    },
+    {
+        "near": "Location17",
+        "station": "GroundStation17",
+        "latitude": 48.42014652000965,
+        "longitude": 40.124224800605425
+    },
+    {
+        "near": "Location18",
+        "station": "GroundStation18",
+        "latitude": 47.078168086231315,
+        "longitude": 177.6319888506434
+    },
+    {
+        "near": "Location19",
+        "station": "GroundStation19",
+        "latitude": 45.76917519756281,
+        "longitude": -44.86024709931904
+    },
+    {
+        "near": "Location20",
+        "station": "GroundStation20",
+        "latitude": 44.49021152554291,
+        "longitude": 92.64751695071892
+    },
+    {
+        "near": "Location21",
+        "station": "GroundStation21",
+        "latitude": 43.23870346101203,
+        "longitude": -129.8447189992431
+    },
+    {
+        "near": "Location22",
+        "station": "GroundStation22",
+        "latitude": 42.01239351297221,
+        "longitude": 7.663045050794451
+    },
+    {
+        "near": "Location23",
+        "station": "GroundStation23",
+        "latitude": 40.80928785655211,
+        "longitude": 145.17080910083243
+    },
+    {
+        "near": "Location24",
+        "station": "GroundStation24",
+        "latitude": 39.62761452130889,
+        "longitude": -77.32142684912962
+    },
+    {
+        "near": "Location25",
+        "station": "GroundStation25",
+        "latitude": 38.46578969488659,
+        "longitude": 60.18633720090794
+    },
+    {
+        "near": "Location26",
+        "station": "GroundStation26",
+        "latitude": 37.32239029571574,
+        "longitude": -162.3058987490541
+    },
+    {
+        "near": "Location27",
+        "station": "GroundStation27",
+        "latitude": 36.19613144498098,
+        "longitude": -24.79813469901612
+    },
+    {
+        "near": "Location28",
+        "station": "GroundStation28",
+        "latitude": 35.085847808123475,
+        "longitude": 112.70962935102185
+    },
+    {
+        "near": "Location29",
+        "station": "GroundStation29",
+        "latitude": 33.990478022366545,
+        "longitude": -109.78260659894019
+    },
+    {
+        "near": "Location30",
+        "station": "GroundStation30",
+        "latitude": 32.90905160745151,
+        "longitude": 27.725157451096962
+    },
+    {
+        "near": "Location31",
+        "station": "GroundStation31",
+        "latitude": 31.840677891029973,
+        "longitude": 165.23292150113494
+    },
+    {
+        "near": "Location32",
+        "station": "GroundStation32",
+        "latitude": 30.784536581055423,
+        "longitude": -57.2593144488271
+    },
+    {
+        "near": "Location33",
+        "station": "GroundStation33",
+        "latitude": 29.739869694145295,
+        "longitude": 80.24844960121087
+    },
+    {
+        "near": "Location34",
+        "station": "GroundStation34",
+        "latitude": 28.705974607653015,
+        "longitude": -142.24378634875117
+    },
+    {
+        "near": "Location35",
+        "station": "GroundStation35",
+        "latitude": 27.682198048672724,
+        "longitude": -4.736022298713203
+    },
+    {
+        "near": "Location36",
+        "station": "GroundStation36",
+        "latitude": 26.667930868700605,
+        "longitude": 132.77174175132478
+    },
+    {
+        "near": "Location37",
+        "station": "GroundStation37",
+        "latitude": 25.66260348060733,
+        "longitude": -89.72049419863808
+    },
+    {
+        "near": "Location38",
+        "station": "GroundStation38",
+        "latitude": 24.665681856714475,
+        "longitude": 47.78726985139989
+    },
+    {
+        "near": "Location39",
+        "station": "GroundStation39",
+        "latitude": 23.67666400443697,
+        "longitude": -174.70496609856215
+    },
+    {
+        "near": "Location40",
+        "station": "GroundStation40",
+        "latitude": 22.695076850150013,
+        "longitude": -37.19720204852418
+    },
+    {
+        "near": "Location41",
+        "station": "GroundStation41",
+        "latitude": 21.720473473413474,
+        "longitude": 100.31056200151379
+    },
+    {
+        "near": "Location42",
+        "station": "GroundStation42",
+        "latitude": 20.75243064301717,
+        "longitude": -122.18167394844826
+    },
+    {
+        "near": "Location43",
+        "station": "GroundStation43",
+        "latitude": 19.79054661393734,
+        "longitude": 15.326090101588902
+    },
+    {
+        "near": "Location44",
+        "station": "GroundStation44",
+        "latitude": 18.834439150561945,
+        "longitude": 152.83385415162687
+    },
+    {
+        "near": "Location45",
+        "station": "GroundStation45",
+        "latitude": 17.883743746717077,
+        "longitude": -69.65838179833517
+    },
+    {
+        "near": "Location46",
+        "station": "GroundStation46",
+        "latitude": 16.938112017319106,
+        "longitude": 67.8493822517028
+    },
+    {
+        "near": "Location47",
+        "station": "GroundStation47",
+        "latitude": 15.997210240051844,
+        "longitude": -154.64285369825924
+    },
+    {
+        "near": "Location48",
+        "station": "GroundStation48",
+        "latitude": 15.060718028458115,
+        "longitude": -17.135089648221264
+    },
+    {
+        "near": "Location49",
+        "station": "GroundStation49",
+        "latitude": 14.128327120343954,
+        "longitude": 120.37267440181589
+    },
+    {
+        "near": "Location50",
+        "station": "GroundStation50",
+        "latitude": 13.19974026750715,
+        "longitude": -102.11956154814615
+    },
+    {
+        "near": "Location51",
+        "station": "GroundStation51",
+        "latitude": 12.274670214586363,
+        "longitude": 35.38820250189183
+    },
+    {
+        "near": "Location52",
+        "station": "GroundStation52",
+        "latitude": 11.352838756338901,
+        "longitude": 172.8959665519298
+    },
+    {
+        "near": "Location53",
+        "station": "GroundStation53",
+        "latitude": 10.43397586393798,
+        "longitude": -49.59626939803224
+    },
+    {
+        "near": "Location54",
+        "station": "GroundStation54",
+        "latitude": 9.517818871971588,
+        "longitude": 87.91149465200573
+    },
+    {
+        "near": "Location55",
+        "station": "GroundStation55",
+        "latitude": 8.604111718753485,
+        "longitude": -134.58074129795634
+    },
+    {
+        "near": "Location56",
+        "station": "GroundStation56",
+        "latitude": 7.6926042333480185,
+        "longitude": 2.927022752081656
+    },
+    {
+        "near": "Location57",
+        "station": "GroundStation57",
+        "latitude": 6.783051463383792,
+        "longitude": 140.43478680211962
+    },
+    {
+        "near": "Location58",
+        "station": "GroundStation58",
+        "latitude": 5.875213038303866,
+        "longitude": -82.0574491478424
+    },
+    {
+        "near": "Location59",
+        "station": "GroundStation59",
+        "latitude": 4.968852563185274,
+        "longitude": 55.450314902193924
+    },
+    {
+        "near": "Location60",
+        "station": "GroundStation60",
+        "latitude": 4.063737038670117,
+        "longitude": -167.0419210477681
+    },
+    {
+        "near": "Location61",
+        "station": "GroundStation61",
+        "latitude": 3.159636302892956,
+        "longitude": -29.53415699773014
+    },
+    {
+        "near": "Location62",
+        "station": "GroundStation62",
+        "latitude": 2.2563224915729365,
+        "longitude": 107.97360705230784
+    },
+    {
+        "near": "Location63",
+        "station": "GroundStation63",
+        "latitude": 1.3535695126694205,
+        "longitude": -114.5186288976542
+    },
+    {
+        "near": "Location64",
+        "station": "GroundStation64",
+        "latitude": 0.45115253218247,
+        "longitude": 22.989135152383767
+    },
+    {
+        "near": "Location65",
+        "station": "GroundStation65",
+        "latitude": -0.45115253218247,
+        "longitude": 160.49689920242173
+    },
+    {
+        "near": "Location66",
+        "station": "GroundStation66",
+        "latitude": -1.3535695126694205,
+        "longitude": -61.9953367475403
+    },
+    {
+        "near": "Location67",
+        "station": "GroundStation67",
+        "latitude": -2.2563224915729303,
+        "longitude": 75.51242730249766
+    },
+    {
+        "near": "Location68",
+        "station": "GroundStation68",
+        "latitude": -3.1596363028929497,
+        "longitude": -146.97980864746438
+    },
+    {
+        "near": "Location69",
+        "station": "GroundStation69",
+        "latitude": -4.063737038670123,
+        "longitude": -9.472044597426404
+    },
+    {
+        "near": "Location70",
+        "station": "GroundStation70",
+        "latitude": -4.96885256318528,
+        "longitude": 128.03571945261157
+    },
+    {
+        "near": "Location71",
+        "station": "GroundStation71",
+        "latitude": -5.875213038303866,
+        "longitude": -94.45651649735048
+    },
+    {
+        "near": "Location72",
+        "station": "GroundStation72",
+        "latitude": -6.783051463383792,
+        "longitude": 43.051247552685865
+    },
+    {
+        "near": "Location73",
+        "station": "GroundStation73",
+        "latitude": -7.6926042333480185,
+        "longitude": -179.44098839727616
+    },
+    {
+        "near": "Location74",
+        "station": "GroundStation74",
+        "latitude": -8.604111718753485,
+        "longitude": -41.933224347238195
+    },
+    {
+        "near": "Location75",
+        "station": "GroundStation75",
+        "latitude": -9.517818871971581,
+        "longitude": 95.57453970279977
+    },
+    {
+        "near": "Location76",
+        "station": "GroundStation76",
+        "latitude": -10.433975863937972,
+        "longitude": -126.91769624716227
+    },
+    {
+        "near": "Location77",
+        "station": "GroundStation77",
+        "latitude": -11.352838756338908,
+        "longitude": 10.5900678028757
+    },
+    {
+        "near": "Location78",
+        "station": "GroundStation78",
+        "latitude": -12.27467021458637,
+        "longitude": 148.09783185291369
+    },
+    {
+        "near": "Location79",
+        "station": "GroundStation79",
+        "latitude": -13.19974026750715,
+        "longitude": -74.39440409704837
+    },
+    {
+        "near": "Location80",
+        "station": "GroundStation80",
+        "latitude": -14.128327120343954,
+        "longitude": 63.113359952989605
+    },
+    {
+        "near": "Location81",
+        "station": "GroundStation81",
+        "latitude": -15.060718028458115,
+        "longitude": -159.37887599697243
+    },
+    {
+        "near": "Location82",
+        "station": "GroundStation82",
+        "latitude": -15.997210240051844,
+        "longitude": -21.871111946934466
+    },
+    {
+        "near": "Location83",
+        "station": "GroundStation83",
+        "latitude": -16.9381120173191,
+        "longitude": 115.6366521031035
+    },
+    {
+        "near": "Location84",
+        "station": "GroundStation84",
+        "latitude": -17.88374374671707,
+        "longitude": -106.85558384685854
+    },
+    {
+        "near": "Location85",
+        "station": "GroundStation85",
+        "latitude": -18.834439150561952,
+        "longitude": 30.652180203177803
+    },
+    {
+        "near": "Location86",
+        "station": "GroundStation86",
+        "latitude": -19.790546613937348,
+        "longitude": 168.15994425321577
+    },
+    {
+        "near": "Location87",
+        "station": "GroundStation87",
+        "latitude": -20.75243064301717,
+        "longitude": -54.33229169674626
+    },
+    {
+        "near": "Location88",
+        "station": "GroundStation88",
+        "latitude": -21.720473473413474,
+        "longitude": 83.17547235329171
+    },
+    {
+        "near": "Location89",
+        "station": "GroundStation89",
+        "latitude": -22.695076850150013,
+        "longitude": -139.31676359667034
+    },
+    {
+        "near": "Location90",
+        "station": "GroundStation90",
+        "latitude": -23.67666400443697,
+        "longitude": -1.8089995466323603
+    },
+    {
+        "near": "Location91",
+        "station": "GroundStation91",
+        "latitude": -24.665681856714468,
+        "longitude": 135.6987645034056
+    },
+    {
+        "near": "Location92",
+        "station": "GroundStation92",
+        "latitude": -25.662603480607324,
+        "longitude": -86.79347144655644
+    },
+    {
+        "near": "Location93",
+        "station": "GroundStation93",
+        "latitude": -26.66793086870061,
+        "longitude": 50.714292603481546
+    },
+    {
+        "near": "Location94",
+        "station": "GroundStation94",
+        "latitude": -27.682198048672735,
+        "longitude": -171.7779433464805
+    },
+    {
+        "near": "Location95",
+        "station": "GroundStation95",
+        "latitude": -28.705974607653015,
+        "longitude": -34.27017929644253
+    },
+    {
+        "near": "Location96",
+        "station": "GroundStation96",
+        "latitude": -29.739869694145295,
+        "longitude": 103.23758475359544
+    },
+    {
+        "near": "Location97",
+        "station": "GroundStation97",
+        "latitude": -30.784536581055423,
+        "longitude": -119.25465119636821
+    },
+    {
+        "near": "Location98",
+        "station": "GroundStation98",
+        "latitude": -31.840677891029973,
+        "longitude": 18.253112853669748
+    },
+    {
+        "near": "Location99",
+        "station": "GroundStation99",
+        "latitude": -32.90905160745151,
+        "longitude": 155.76087690370773
+    },
+    {
+        "near": "Location100",
+        "station": "GroundStation100",
+        "latitude": -33.99047802236654,
+        "longitude": -66.73135904625433
+    },
+    {
+        "near": "Location101",
+        "station": "GroundStation101",
+        "latitude": -35.08584780812348,
+        "longitude": 70.77640500378365
+    },
+    {
+        "near": "Location102",
+        "station": "GroundStation102",
+        "latitude": -36.19613144498098,
+        "longitude": -151.71583094617841
+    },
+    {
+        "near": "Location103",
+        "station": "GroundStation103",
+        "latitude": -37.32239029571574,
+        "longitude": -14.208066896140421
+    },
+    {
+        "near": "Location104",
+        "station": "GroundStation104",
+        "latitude": -38.46578969488659,
+        "longitude": 123.29969715389754
+    },
+    {
+        "near": "Location105",
+        "station": "GroundStation105",
+        "latitude": -39.62761452130889,
+        "longitude": -99.19253879606448
+    },
+    {
+        "near": "Location106",
+        "station": "GroundStation106",
+        "latitude": -40.80928785655211,
+        "longitude": 38.31522525397348
+    },
+    {
+        "near": "Location107",
+        "station": "GroundStation107",
+        "latitude": -42.01239351297221,
+        "longitude": 175.82298930401146
+    },
+    {
+        "near": "Location108",
+        "station": "GroundStation108",
+        "latitude": -43.23870346101202,
+        "longitude": -46.669246645950594
+    },
+    {
+        "near": "Location109",
+        "station": "GroundStation109",
+        "latitude": -44.49021152554292,
+        "longitude": 90.83851740408738
+    },
+    {
+        "near": "Location110",
+        "station": "GroundStation110",
+        "latitude": -45.76917519756281,
+        "longitude": -131.65371854587465
+    },
+    {
+        "near": "Location111",
+        "station": "GroundStation111",
+        "latitude": -47.078168086231315,
+        "longitude": 5.854045504163313
+    },
+    {
+        "near": "Location112",
+        "station": "GroundStation112",
+        "latitude": -48.42014652000965,
+        "longitude": 143.3618095542013
+    },
+    {
+        "near": "Location113",
+        "station": "GroundStation113",
+        "latitude": -49.798535260008016,
+        "longitude": -79.13042639576075
+    },
+    {
+        "near": "Location114",
+        "station": "GroundStation114",
+        "latitude": -51.217339486051024,
+        "longitude": 58.377337654277206
+    },
+    {
+        "near": "Location115",
+        "station": "GroundStation115",
+        "latitude": -52.68129361838405,
+        "longitude": -164.1148982956848
+    },
+    {
+        "near": "Location116",
+        "station": "GroundStation116",
+        "latitude": -54.19606295374578,
+        "longitude": -26.60713424564685
+    },
+    {
+        "near": "Location117",
+        "station": "GroundStation117",
+        "latitude": -55.76852299064569,
+        "longitude": 110.90062980438785
+    },
+    {
+        "near": "Location118",
+        "station": "GroundStation118",
+        "latitude": -57.4071564696852,
+        "longitude": -111.59160614557419
+    },
+    {
+        "near": "Location119",
+        "station": "GroundStation119",
+        "latitude": -59.12263506636361,
+        "longitude": 25.916157904463788
+    },
+    {
+        "near": "Location120",
+        "station": "GroundStation120",
+        "latitude": -60.92870290259387,
+        "longitude": 163.42392195450176
+    },
+    {
+        "near": "Location121",
+        "station": "GroundStation121",
+        "latitude": -62.84357852411154,
+        "longitude": -59.06831399546028
+    },
+    {
+        "near": "Location122",
+        "station": "GroundStation122",
+        "latitude": -64.89230384831565,
+        "longitude": 78.43945005457769
+    },
+    {
+        "near": "Location123",
+        "station": "GroundStation123",
+        "latitude": -67.11096280365459,
+        "longitude": -144.05278589538435
+    },
+    {
+        "near": "Location124",
+        "station": "GroundStation124",
+        "latitude": -69.55499039178954,
+        "longitude": -6.545021845346375
+    },
+    {
+        "near": "Location125",
+        "station": "GroundStation125",
+        "latitude": -72.31780315122704,
+        "longitude": 130.96274220469158
+    },
+    {
+        "near": "Location126",
+        "station": "GroundStation126",
+        "latitude": -75.58175882662185,
+        "longitude": -91.52949374527044
+    },
+    {
+        "near": "Location127",
+        "station": "GroundStation127",
+        "latitude": -79.81825161166374,
+        "longitude": 45.97827030476753
+    },
+    {
+        "near": "Location128",
+        "station": "GroundStation128",
+        "latitude": -90.0,
+        "longitude": -180.0
+    }
+]

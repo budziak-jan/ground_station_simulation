@@ -1,0 +1,1635 @@
+[
+    {
+        "near": "North Pole",
+        "station": "Pole-1",
+        "latitude": 90.0,
+        "longitude": 0.0
+    },
+    {
+        "near": "South Pole",
+        "station": "Pole-2",
+        "latitude": -90.0,
+        "longitude": 0.0
+    },
+    {
+        "near": "Sydney",
+        "station": "Oceania-1",
+        "latitude": -33.8688,
+        "longitude": 151.2093
+    },
+    {
+        "near": "Melbourne",
+        "station": "Oceania-2",
+        "latitude": -37.8136,
+        "longitude": 144.9631
+    },
+    {
+        "near": "Brisbane",
+        "station": "Oceania-3",
+        "latitude": -27.4698,
+        "longitude": 153.0251
+    },
+    {
+        "near": "Perth",
+        "station": "Oceania-4",
+        "latitude": -31.9505,
+        "longitude": 115.8605
+    },
+    {
+        "near": "Adelaide",
+        "station": "Oceania-5",
+        "latitude": -34.9285,
+        "longitude": 138.6007
+    },
+    {
+        "near": "Canberra",
+        "station": "Oceania-6",
+        "latitude": -35.2809,
+        "longitude": 149.1300
+    },
+    {
+        "near": "Hobart",
+        "station": "Oceania-7",
+        "latitude": -42.8821,
+        "longitude": 147.3272
+    },
+    {
+        "near": "Darwin",
+        "station": "Oceania-8",
+        "latitude": -12.4634,
+        "longitude": 130.8456
+    },
+    {
+        "near": "Auckland",
+        "station": "Oceania-9",
+        "latitude": -36.8485,
+        "longitude": 174.7633
+    },
+    {
+        "near": "Wellington",
+        "station": "Oceania-10",
+        "latitude": -41.2865,
+        "longitude": 174.7762
+    },
+    {
+        "near": "Christchurch",
+        "station": "Oceania-11",
+        "latitude": -43.5321,
+        "longitude": 172.6362
+    },
+    {
+        "near": "Hamilton",
+        "station": "Oceania-12",
+        "latitude": -37.7870,
+        "longitude": 175.2793
+    },
+    {
+        "near": "Suva",
+        "station": "Oceania-13",
+        "latitude": -18.1248,
+        "longitude": 178.4501
+    },
+    {
+        "near": "Nadi",
+        "station": "Oceania-14",
+        "latitude": -17.7765,
+        "longitude": 177.4350
+    },
+    {
+        "near": "Port Moresby",
+        "station": "Oceania-15",
+        "latitude": -9.4780,
+        "longitude": 147.1494
+    },
+    {
+        "near": "Honiara",
+        "station": "Oceania-16",
+        "latitude": -9.4456,
+        "longitude": 159.9729
+    },
+    {
+        "near": "Nouméa",
+        "station": "Oceania-17",
+        "latitude": -22.2558,
+        "longitude": 166.4505
+    },
+    {
+        "near": "Apia",
+        "station": "Oceania-18",
+        "latitude": -13.8333,
+        "longitude": -171.7667
+    },
+    {
+        "near": "Pago Pago",
+        "station": "Oceania-19",
+        "latitude": -14.2756,
+        "longitude": -170.7020
+    },
+    {
+        "near": "Nuku'alofa",
+        "station": "Oceania-20",
+        "latitude": -21.1394,
+        "longitude": -175.2048
+    },
+    {
+        "near": "Funafuti",
+        "station": "Oceania-21",
+        "latitude": -8.5201,
+        "longitude": 179.1942
+    },
+    {
+        "near": "Majuro",
+        "station": "Oceania-22",
+        "latitude": 7.1315,
+        "longitude": 171.1845
+    },
+    {
+        "near": "Palikir",
+        "station": "Oceania-23",
+        "latitude": 6.9248,
+        "longitude": 158.1611
+    },
+    {
+        "near": "Tarawa",
+        "station": "Oceania-24",
+        "latitude": 1.4518,
+        "longitude": 172.9770
+    },
+    {
+        "near": "Yaren",
+        "station": "Oceania-25",
+        "latitude": -0.5477,
+        "longitude": 166.9209
+    },
+    {
+        "near": "Koror",
+        "station": "Oceania-26",
+        "latitude": 7.3420,
+        "longitude": 134.4770
+    },
+    {
+        "near": "Melekeok",
+        "station": "Oceania-27",
+        "latitude": 7.4958,
+        "longitude": 134.6348
+    },
+    {
+        "near": "Avarua",
+        "station": "Oceania-28",
+        "latitude": -21.2070,
+        "longitude": -159.7756
+    },
+    {
+        "near": "Port Vila",
+        "station": "Oceania-29",
+        "latitude": -17.7333,
+        "longitude": 168.3273
+    },
+    {
+        "near": "Papeete",
+        "station": "Oceania-30",
+        "latitude": -17.5516,
+        "longitude": -149.5585
+    },
+    {
+        "near": "Alofi",
+        "station": "Oceania-31",
+        "latitude": -19.0595,
+        "longitude": -169.9187
+    },
+    {
+        "near": "Hagåtña",
+        "station": "Oceania-32",
+        "latitude": 13.4786,
+        "longitude": 144.7502
+    },
+    {
+        "near": "Saipan",
+        "station": "Oceania-33",
+        "latitude": 15.1850,
+        "longitude": 145.7467
+    },
+    {
+        "near": "West Island",
+        "station": "Oceania-34",
+        "latitude": -12.1568,
+        "longitude": 96.8225
+    },
+    {
+        "near": "Flying Fish Cove",
+        "station": "Oceania-35",
+        "latitude": -10.4216,
+        "longitude": 105.6790
+    },
+    {
+        "near": "Adamstown",
+        "station": "Oceania-36",
+        "latitude": -25.0660,
+        "longitude": -130.1005
+    },
+    {
+        "near": "Port Denison",
+        "station": "Oceania-37",
+        "latitude": -29.2728,
+        "longitude": 114.9173
+    },
+    {
+        "near": "Nelson",
+        "station": "Oceania-38",
+        "latitude": -41.2706,
+        "longitude": 173.2840
+    },
+    {
+        "near": "Palmerston North",
+        "station": "Oceania-39",
+        "latitude": -40.3523,
+        "longitude": 175.6082
+    },
+    {
+        "near": "Lae",
+        "station": "Oceania-40",
+        "latitude": -6.7219,
+        "longitude": 146.9990
+    },
+    {
+        "near": "Luganville",
+        "station": "Oceania-41",
+        "latitude": -15.5200,
+        "longitude": 167.1700
+    },
+    {
+        "near": "Funafala",
+        "station": "Oceania-42",
+        "latitude": -8.5011,
+        "longitude": 179.1940
+    },
+    {
+        "near": "Betio",
+        "station": "Oceania-43",
+        "latitude": 1.3567,
+        "longitude": 172.9333
+    },
+    {
+        "near": "Mangilao",
+        "station": "Oceania-44",
+        "latitude": 13.4479,
+        "longitude": 144.8018
+    },
+    {
+        "near": "Tamuning",
+        "station": "Oceania-45",
+        "latitude": 13.4870,
+        "longitude": 144.7820
+    },
+    {
+        "near": "Mexico City",
+        "station": "SouthAmerica-1",
+        "latitude": 19.4326,
+        "longitude": -99.1332
+    },
+    {
+        "near": "Guadalajara",
+        "station": "SouthAmerica-2",
+        "latitude": 20.6597,
+        "longitude": -103.3496
+    },
+    {
+        "near": "Monterrey",
+        "station": "SouthAmerica-3",
+        "latitude": 25.6866,
+        "longitude": -100.3161
+    },
+    {
+        "near": "Havana",
+        "station": "SouthAmerica-4",
+        "latitude": 23.1136,
+        "longitude": -82.3666
+    },
+    {
+        "near": "Santo Domingo",
+        "station": "SouthAmerica-5",
+        "latitude": 18.4861,
+        "longitude": -69.9312
+    },
+    {
+        "near": "San Juan",
+        "station": "SouthAmerica-6",
+        "latitude": 18.4655,
+        "longitude": -66.1057
+    },
+    {
+        "near": "Kingston",
+        "station": "SouthAmerica-7",
+        "latitude": 18.0179,
+        "longitude": -76.8099
+    },
+    {
+        "near": "Port-au-Prince",
+        "station": "SouthAmerica-8",
+        "latitude": 18.5944,
+        "longitude": -72.3074
+    },
+    {
+        "near": "Nassau",
+        "station": "SouthAmerica-9",
+        "latitude": 25.0343,
+        "longitude": -77.3963
+    },
+    {
+        "near": "Bridgetown",
+        "station": "SouthAmerica-10",
+        "latitude": 13.0975,
+        "longitude": -59.6167
+    },
+    {
+        "near": "Caracas",
+        "station": "SouthAmerica-11",
+        "latitude": 10.4806,
+        "longitude": -66.9036
+    },
+    {
+        "near": "Bogotá",
+        "station": "SouthAmerica-12",
+        "latitude": 4.7110,
+        "longitude": -74.0721
+    },
+    {
+        "near": "Medellín",
+        "station": "SouthAmerica-13",
+        "latitude": 6.2442,
+        "longitude": -75.5812
+    },
+    {
+        "near": "Quito",
+        "station": "SouthAmerica-14",
+        "latitude": -0.1807,
+        "longitude": -78.4678
+    },
+    {
+        "near": "Lima",
+        "station": "SouthAmerica-15",
+        "latitude": -12.0464,
+        "longitude": -77.0428
+    },
+    {
+        "near": "La Paz",
+        "station": "SouthAmerica-16",
+        "latitude": -16.5000,
+        "longitude": -68.1500
+    },
+    {
+        "near": "Santiago",
+        "station": "SouthAmerica-17",
+        "latitude": -33.4489,
+        "longitude": -70.6693
+    },
+    {
+        "near": "Buenos Aires",
+        "station": "SouthAmerica-18",
+        "latitude": -34.6037,
+        "longitude": -58.3816
+    },
+    {
+        "near": "São Paulo",
+        "station": "SouthAmerica-19",
+        "latitude": -23.5505,
+        "longitude": -46.6333
+    },
+    {
+        "near": "Rio de Janeiro",
+        "station": "SouthAmerica-20",
+        "latitude": -22.9068,
+        "longitude": -43.1729
+    },
+    {
+        "near": "Brasília",
+        "station": "SouthAmerica-21",
+        "latitude": -15.7942,
+        "longitude": -47.8822
+    },
+    {
+        "near": "Salvador",
+        "station": "SouthAmerica-22",
+        "latitude": -12.9714,
+        "longitude": -38.5014
+    },
+    {
+        "near": "Fortaleza",
+        "station": "SouthAmerica-23",
+        "latitude": -3.7172,
+        "longitude": -38.5434
+    },
+    {
+        "near": "Manaus",
+        "station": "SouthAmerica-24",
+        "latitude": -3.1190,
+        "longitude": -60.0217
+    },
+    {
+        "near": "Recife",
+        "station": "SouthAmerica-25",
+        "latitude": -8.0476,
+        "longitude": -34.8770
+    },
+    {
+        "near": "Belém",
+        "station": "SouthAmerica-26",
+        "latitude": -1.4558,
+        "longitude": -48.4902
+    },
+    {
+        "near": "Porto Alegre",
+        "station": "SouthAmerica-27",
+        "latitude": -30.0346,
+        "longitude": -51.2177
+    },
+    {
+        "near": "Curitiba",
+        "station": "SouthAmerica-28",
+        "latitude": -25.4284,
+        "longitude": -49.2733
+    },
+    {
+        "near": "Asunción",
+        "station": "SouthAmerica-29",
+        "latitude": -25.2637,
+        "longitude": -57.5759
+    },
+    {
+        "near": "Montevideo",
+        "station": "SouthAmerica-30",
+        "latitude": -34.9011,
+        "longitude": -56.1645
+    },
+    {
+        "near": "Georgetown",
+        "station": "SouthAmerica-31",
+        "latitude": 6.8013,
+        "longitude": -58.1551
+    },
+    {
+        "near": "Paramaribo",
+        "station": "SouthAmerica-32",
+        "latitude": 5.8520,
+        "longitude": -55.2038
+    },
+    {
+        "near": "Belmopan",
+        "station": "SouthAmerica-33",
+        "latitude": 17.2514,
+        "longitude": -88.7590
+    },
+    {
+        "near": "Guatemala City",
+        "station": "SouthAmerica-34",
+        "latitude": 14.6349,
+        "longitude": -90.5069
+    },
+    {
+        "near": "Tegucigalpa",
+        "station": "SouthAmerica-35",
+        "latitude": 14.0723,
+        "longitude": -87.1921
+    },
+    {
+        "near": "San Salvador",
+        "station": "SouthAmerica-36",
+        "latitude": 13.6929,
+        "longitude": -89.2182
+    },
+    {
+        "near": "Managua",
+        "station": "SouthAmerica-37",
+        "latitude": 12.1364,
+        "longitude": -86.2514
+    },
+    {
+        "near": "San José",
+        "station": "SouthAmerica-38",
+        "latitude": 9.9281,
+        "longitude": -84.0907
+    },
+    {
+        "near": "Panama City",
+        "station": "SouthAmerica-39",
+        "latitude": 8.9824,
+        "longitude": -79.5199
+    },
+    {
+        "near": "Port of Spain",
+        "station": "SouthAmerica-40",
+        "latitude": 10.6549,
+        "longitude": -61.5019
+    },
+    {
+        "near": "Kingstown",
+        "station": "SouthAmerica-41",
+        "latitude": 13.1600,
+        "longitude": -61.2248
+    },
+    {
+        "near": "Castries",
+        "station": "SouthAmerica-42",
+        "latitude": 14.0101,
+        "longitude": -60.9875
+    },
+    {
+        "near": "Basseterre",
+        "station": "SouthAmerica-43",
+        "latitude": 17.3026,
+        "longitude": -62.7177
+    },
+    {
+        "near": "Roseau",
+        "station": "SouthAmerica-44",
+        "latitude": 15.3092,
+        "longitude": -61.3794
+    },
+    {
+        "near": "St. John's",
+        "station": "SouthAmerica-45",
+        "latitude": 17.1274,
+        "longitude": -61.8468
+    },
+    {
+        "near": "New York",
+        "station": "NorthAmerica-1",
+        "latitude": 40.7128,
+        "longitude": -74.0060
+    },
+    {
+        "near": "Los Angeles",
+        "station": "NorthAmerica-2",
+        "latitude": 34.0522,
+        "longitude": -118.2437
+    },
+    {
+        "near": "Chicago",
+        "station": "NorthAmerica-3",
+        "latitude": 41.8781,
+        "longitude": -87.6298
+    },
+    {
+        "near": "Houston",
+        "station": "NorthAmerica-4",
+        "latitude": 29.7604,
+        "longitude": -95.3698
+    },
+    {
+        "near": "Phoenix",
+        "station": "NorthAmerica-5",
+        "latitude": 33.4484,
+        "longitude": -112.0740
+    },
+    {
+        "near": "Philadelphia",
+        "station": "NorthAmerica-6",
+        "latitude": 39.9526,
+        "longitude": -75.1652
+    },
+    {
+        "near": "San Antonio",
+        "station": "NorthAmerica-7",
+        "latitude": 29.4241,
+        "longitude": -98.4936
+    },
+    {
+        "near": "San Diego",
+        "station": "NorthAmerica-8",
+        "latitude": 32.7157,
+        "longitude": -117.1611
+    },
+    {
+        "near": "Dallas",
+        "station": "NorthAmerica-9",
+        "latitude": 32.7767,
+        "longitude": -96.7970
+    },
+    {
+        "near": "San Jose",
+        "station": "NorthAmerica-10",
+        "latitude": 37.3382,
+        "longitude": -121.8863
+    },
+    {
+        "near": "Austin",
+        "station": "NorthAmerica-11",
+        "latitude": 30.2672,
+        "longitude": -97.7431
+    },
+    {
+        "near": "Jacksonville",
+        "station": "NorthAmerica-12",
+        "latitude": 30.3322,
+        "longitude": -81.6557
+    },
+    {
+        "near": "Fort Worth",
+        "station": "NorthAmerica-13",
+        "latitude": 32.7555,
+        "longitude": -97.3308
+    },
+    {
+        "near": "Columbus",
+        "station": "NorthAmerica-14",
+        "latitude": 39.9612,
+        "longitude": -82.9988
+    },
+    {
+        "near": "San Francisco",
+        "station": "NorthAmerica-15",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+    },
+    {
+        "near": "Charlotte",
+        "station": "NorthAmerica-16",
+        "latitude": 35.2271,
+        "longitude": -80.8431
+    },
+    {
+        "near": "Indianapolis",
+        "station": "NorthAmerica-17",
+        "latitude": 39.7684,
+        "longitude": -86.1581
+    },
+    {
+        "near": "Seattle",
+        "station": "NorthAmerica-18",
+        "latitude": 47.6062,
+        "longitude": -122.3321
+    },
+    {
+        "near": "Denver",
+        "station": "NorthAmerica-19",
+        "latitude": 39.7392,
+        "longitude": -104.9903
+    },
+    {
+        "near": "Washington, D.C.",
+        "station": "NorthAmerica-20",
+        "latitude": 38.9072,
+        "longitude": -77.0369
+    },
+    {
+        "near": "Boston",
+        "station": "NorthAmerica-21",
+        "latitude": 42.3601,
+        "longitude": -71.0589
+    },
+    {
+        "near": "El Paso",
+        "station": "NorthAmerica-22",
+        "latitude": 31.7619,
+        "longitude": -106.4850
+    },
+    {
+        "near": "Detroit",
+        "station": "NorthAmerica-23",
+        "latitude": 42.3314,
+        "longitude": -83.0458
+    },
+    {
+        "near": "Nashville",
+        "station": "NorthAmerica-24",
+        "latitude": 36.1627,
+        "longitude": -86.7816
+    },
+    {
+        "near": "Memphis",
+        "station": "NorthAmerica-25",
+        "latitude": 35.1495,
+        "longitude": -90.0490
+    },
+    {
+        "near": "Portland",
+        "station": "NorthAmerica-26",
+        "latitude": 45.5051,
+        "longitude": -122.6750
+    },
+    {
+        "near": "Oklahoma City",
+        "station": "NorthAmerica-27",
+        "latitude": 35.4676,
+        "longitude": -97.5164
+    },
+    {
+        "near": "Las Vegas",
+        "station": "NorthAmerica-28",
+        "latitude": 36.1699,
+        "longitude": -115.1398
+    },
+    {
+        "near": "Louisville",
+        "station": "NorthAmerica-29",
+        "latitude": 38.2527,
+        "longitude": -85.7585
+    },
+    {
+        "near": "Baltimore",
+        "station": "NorthAmerica-30",
+        "latitude": 39.2904,
+        "longitude": -76.6122
+    },
+    {
+        "near": "Milwaukee",
+        "station": "NorthAmerica-31",
+        "latitude": 43.0389,
+        "longitude": -87.9065
+    },
+    {
+        "near": "Albuquerque",
+        "station": "NorthAmerica-32",
+        "latitude": 35.0844,
+        "longitude": -106.6504
+    },
+    {
+        "near": "Tucson",
+        "station": "NorthAmerica-33",
+        "latitude": 32.2226,
+        "longitude": -110.9747
+    },
+    {
+        "near": "Fresno",
+        "station": "NorthAmerica-34",
+        "latitude": 36.7378,
+        "longitude": -119.7871
+    },
+    {
+        "near": "Sacramento",
+        "station": "NorthAmerica-35",
+        "latitude": 38.5816,
+        "longitude": -121.4944
+    },
+    {
+        "near": "Kansas City",
+        "station": "NorthAmerica-36",
+        "latitude": 39.0997,
+        "longitude": -94.5786
+    },
+    {
+        "near": "Mesa",
+        "station": "NorthAmerica-37",
+        "latitude": 33.4152,
+        "longitude": -111.8315
+    },
+    {
+        "near": "Atlanta",
+        "station": "NorthAmerica-38",
+        "latitude": 33.7490,
+        "longitude": -84.3880
+    },
+    {
+        "near": "Omaha",
+        "station": "NorthAmerica-39",
+        "latitude": 41.2565,
+        "longitude": -95.9345
+    },
+    {
+        "near": "Colorado Springs",
+        "station": "NorthAmerica-40",
+        "latitude": 38.8339,
+        "longitude": -104.8214
+    },
+    {
+        "near": "Raleigh",
+        "station": "NorthAmerica-41",
+        "latitude": 35.7796,
+        "longitude": -78.6382
+    },
+    {
+        "near": "Miami",
+        "station": "NorthAmerica-42",
+        "latitude": 25.7617,
+        "longitude": -80.1918
+    },
+    {
+        "near": "Virginia Beach",
+        "station": "NorthAmerica-43",
+        "latitude": 36.8529,
+        "longitude": -75.9780
+    },
+    {
+        "near": "Oakland",
+        "station": "NorthAmerica-44",
+        "latitude": 37.8044,
+        "longitude": -122.2711
+    },
+    {
+        "near": "Minneapolis",
+        "station": "NorthAmerica-45",
+        "latitude": 44.9778,
+        "longitude": -93.2650
+    },
+    {
+        "near": "London",
+        "station": "Europe-1",
+        "latitude": 51.5074,
+        "longitude": -0.1278
+    },
+    {
+        "near": "Paris",
+        "station": "Europe-2",
+        "latitude": 48.8566,
+        "longitude": 2.3522
+    },
+    {
+        "near": "Berlin",
+        "station": "Europe-3",
+        "latitude": 52.5200,
+        "longitude": 13.4050
+    },
+    {
+        "near": "Madrid",
+        "station": "Europe-4",
+        "latitude": 40.4168,
+        "longitude": -3.7038
+    },
+    {
+        "near": "Rome",
+        "station": "Europe-5",
+        "latitude": 41.9028,
+        "longitude": 12.4964
+    },
+    {
+        "near": "Athens",
+        "station": "Europe-6",
+        "latitude": 37.9838,
+        "longitude": 23.7275
+    },
+    {
+        "near": "Vienna",
+        "station": "Europe-7",
+        "latitude": 48.2082,
+        "longitude": 16.3738
+    },
+    {
+        "near": "Amsterdam",
+        "station": "Europe-8",
+        "latitude": 52.3676,
+        "longitude": 4.9041
+    },
+    {
+        "near": "Brussels",
+        "station": "Europe-9",
+        "latitude": 50.8503,
+        "longitude": 4.3517
+    },
+    {
+        "near": "Copenhagen",
+        "station": "Europe-10",
+        "latitude": 55.6761,
+        "longitude": 12.5683
+    },
+    {
+        "near": "Dublin",
+        "station": "Europe-11",
+        "latitude": 53.3498,
+        "longitude": -6.2603
+    },
+    {
+        "near": "Lisbon",
+        "station": "Europe-12",
+        "latitude": 38.7223,
+        "longitude": -9.1393
+    },
+    {
+        "near": "Oslo",
+        "station": "Europe-13",
+        "latitude": 59.9139,
+        "longitude": 10.7522
+    },
+    {
+        "near": "Stockholm",
+        "station": "Europe-14",
+        "latitude": 59.3293,
+        "longitude": 18.0686
+    },
+    {
+        "near": "Helsinki",
+        "station": "Europe-15",
+        "latitude": 60.1695,
+        "longitude": 24.9354
+    },
+    {
+        "near": "Warsaw",
+        "station": "Europe-16",
+        "latitude": 52.2297,
+        "longitude": 21.0122
+    },
+    {
+        "near": "Prague",
+        "station": "Europe-17",
+        "latitude": 50.0755,
+        "longitude": 14.4378
+    },
+    {
+        "near": "Budapest",
+        "station": "Europe-18",
+        "latitude": 47.4979,
+        "longitude": 19.0402
+    },
+    {
+        "near": "Zurich",
+        "station": "Europe-19",
+        "latitude": 47.3769,
+        "longitude": 8.5417
+    },
+    {
+        "near": "Vienna",
+        "station": "Europe-20",
+        "latitude": 48.2082,
+        "longitude": 16.3738
+    },
+    {
+        "near": "Barcelona",
+        "station": "Europe-21",
+        "latitude": 41.3851,
+        "longitude": 2.1734
+    },
+    {
+        "near": "Milan",
+        "station": "Europe-22",
+        "latitude": 45.4642,
+        "longitude": 9.1900
+    },
+    {
+        "near": "Munich",
+        "station": "Europe-23",
+        "latitude": 48.1351,
+        "longitude": 11.5820
+    },
+    {
+        "near": "Frankfurt",
+        "station": "Europe-24",
+        "latitude": 50.1109,
+        "longitude": 8.6821
+    },
+    {
+        "near": "Hamburg",
+        "station": "Europe-25",
+        "latitude": 53.5511,
+        "longitude": 9.9937
+    },
+    {
+        "near": "Bratislava",
+        "station": "Europe-26",
+        "latitude": 48.1486,
+        "longitude": 17.1077
+    },
+    {
+        "near": "Ljubljana",
+        "station": "Europe-27",
+        "latitude": 46.0569,
+        "longitude": 14.5058
+    },
+    {
+        "near": "Sofia",
+        "station": "Europe-28",
+        "latitude": 42.6977,
+        "longitude": 23.3219
+    },
+    {
+        "near": "Bucharest",
+        "station": "Europe-29",
+        "latitude": 44.4268,
+        "longitude": 26.1025
+    },
+    {
+        "near": "Belgrade",
+        "station": "Europe-30",
+        "latitude": 44.7866,
+        "longitude": 20.4489
+    },
+    {
+        "near": "Sarajevo",
+        "station": "Europe-31",
+        "latitude": 43.8563,
+        "longitude": 18.4131
+    },
+    {
+        "near": "Zagreb",
+        "station": "Europe-32",
+        "latitude": 45.8150,
+        "longitude": 15.9819
+    },
+    {
+        "near": "Skopje",
+        "station": "Europe-33",
+        "latitude": 41.9973,
+        "longitude": 21.4280
+    },
+    {
+        "near": "Tirana",
+        "station": "Europe-34",
+        "latitude": 41.3275,
+        "longitude": 19.8187
+    },
+    {
+        "near": "Podgorica",
+        "station": "Europe-35",
+        "latitude": 42.4416,
+        "longitude": 19.2662
+    },
+    {
+        "near": "Reykjavik",
+        "station": "Europe-36",
+        "latitude": 64.1355,
+        "longitude": -21.8954
+    },
+    {
+        "near": "Valletta",
+        "station": "Europe-37",
+        "latitude": 35.8989,
+        "longitude": 14.5146
+    },
+    {
+        "near": "Luxembourg",
+        "station": "Europe-38",
+        "latitude": 49.6116,
+        "longitude": 6.1319
+    },
+    {
+        "near": "Andorra la Vella",
+        "station": "Europe-39",
+        "latitude": 42.5078,
+        "longitude": 1.5211
+    },
+    {
+        "near": "Monaco",
+        "station": "Europe-40",
+        "latitude": 43.7384,
+        "longitude": 7.4246
+    },
+    {
+        "near": "San Marino",
+        "station": "Europe-41",
+        "latitude": 43.9333,
+        "longitude": 12.4486
+    },
+    {
+        "near": "Vaduz",
+        "station": "Europe-42",
+        "latitude": 47.141,
+        "longitude": 9.5215
+    },
+    {
+        "near": "Tallinn",
+        "station": "Europe-43",
+        "latitude": 59.437,
+        "longitude": 24.7535
+    },
+    {
+        "near": "Riga",
+        "station": "Europe-44",
+        "latitude": 56.9496,
+        "longitude": 24.1052
+    },
+    {
+        "near": "Vilnius",
+        "station": "Europe-45",
+        "latitude": 54.6872,
+        "longitude": 25.2797
+    },
+    {
+        "near": "Tokyo",
+        "station": "Asia-1",
+        "latitude": 35.6895,
+        "longitude": 139.6917
+    },
+    {
+        "near": "Beijing",
+        "station": "Asia-2",
+        "latitude": 39.9042,
+        "longitude": 116.4074
+    },
+    {
+        "near": "Delhi",
+        "station": "Asia-3",
+        "latitude": 28.6139,
+        "longitude": 77.2090
+    },
+    {
+        "near": "Bangkok",
+        "station": "Asia-4",
+        "latitude": 13.7563,
+        "longitude": 100.5018
+    },
+    {
+        "near": "Seoul",
+        "station": "Asia-5",
+        "latitude": 37.5665,
+        "longitude": 126.9780
+    },
+    {
+        "near": "Jakarta",
+        "station": "Asia-6",
+        "latitude": -6.2088,
+        "longitude": 106.8456
+    },
+    {
+        "near": "Manila",
+        "station": "Asia-7",
+        "latitude": 14.5995,
+        "longitude": 120.9842
+    },
+    {
+        "near": "Kuala Lumpur",
+        "station": "Asia-8",
+        "latitude": 3.1390,
+        "longitude": 101.6869
+    },
+    {
+        "near": "Singapore",
+        "station": "Asia-9",
+        "latitude": 1.3521,
+        "longitude": 103.8198
+    },
+    {
+        "near": "Hanoi",
+        "station": "Asia-10",
+        "latitude": 21.0285,
+        "longitude": 105.8542
+    },
+    {
+        "near": "Riyadh",
+        "station": "Asia-11",
+        "latitude": 24.7136,
+        "longitude": 46.6753
+    },
+    {
+        "near": "Tehran",
+        "station": "Asia-12",
+        "latitude": 35.6892,
+        "longitude": 51.3890
+    },
+    {
+        "near": "Baghdad",
+        "station": "Asia-13",
+        "latitude": 33.3152,
+        "longitude": 44.3661
+    },
+    {
+        "near": "Jerusalem",
+        "station": "Asia-14",
+        "latitude": 31.7683,
+        "longitude": 35.2137
+    },
+    {
+        "near": "Istanbul",
+        "station": "Asia-15",
+        "latitude": 41.0082,
+        "longitude": 28.9784
+    },
+    {
+        "near": "Moscow",
+        "station": "Asia-16",
+        "latitude": 55.7558,
+        "longitude": 37.6173
+    },
+    {
+        "near": "Ulaanbaatar",
+        "station": "Asia-17",
+        "latitude": 47.8864,
+        "longitude": 106.9057
+    },
+    {
+        "near": "Dhaka",
+        "station": "Asia-18",
+        "latitude": 23.8103,
+        "longitude": 90.4125
+    },
+    {
+        "near": "Colombo",
+        "station": "Asia-19",
+        "latitude": 6.9271,
+        "longitude": 79.8612
+    },
+    {
+        "near": "Kathmandu",
+        "station": "Asia-20",
+        "latitude": 27.7172,
+        "longitude": 85.3240
+    },
+    {
+        "near": "Thimphu",
+        "station": "Asia-21",
+        "latitude": 27.4728,
+        "longitude": 89.6390
+    },
+    {
+        "near": "Malé",
+        "station": "Asia-22",
+        "latitude": 4.1755,
+        "longitude": 73.5093
+    },
+    {
+        "near": "Yangon",
+        "station": "Asia-23",
+        "latitude": 16.8409,
+        "longitude": 96.1735
+    },
+    {
+        "near": "Vientiane",
+        "station": "Asia-24",
+        "latitude": 17.9757,
+        "longitude": 102.6331
+    },
+    {
+        "near": "Phnom Penh",
+        "station": "Asia-25",
+        "latitude": 11.5564,
+        "longitude": 104.9282
+    },
+    {
+        "near": "Islamabad",
+        "station": "Asia-26",
+        "latitude": 33.6844,
+        "longitude": 73.0479
+    },
+    {
+        "near": "Tashkent",
+        "station": "Asia-27",
+        "latitude": 41.2995,
+        "longitude": 69.2401
+    },
+    {
+        "near": "Dushanbe",
+        "station": "Asia-28",
+        "latitude": 38.5598,
+        "longitude": 68.7870
+    },
+    {
+        "near": "Ashgabat",
+        "station": "Asia-29",
+        "latitude": 37.9601,
+        "longitude": 58.3261
+    },
+    {
+        "near": "Bishkek",
+        "station": "Asia-30",
+        "latitude": 42.8746,
+        "longitude": 74.5698
+    },
+    {
+        "near": "Astana",
+        "station": "Asia-31",
+        "latitude": 51.1694,
+        "longitude": 71.4491
+    },
+    {
+        "near": "Doha",
+        "station": "Asia-32",
+        "latitude": 25.276987,
+        "longitude": 51.520008
+    },
+    {
+        "near": "Abu Dhabi",
+        "station": "Asia-33",
+        "latitude": 24.453884,
+        "longitude": 54.377344
+    },
+    {
+        "near": "Muscat",
+        "station": "Asia-34",
+        "latitude": 23.5880,
+        "longitude": 58.3829
+    },
+    {
+        "near": "Kuwait City",
+        "station": "Asia-35",
+        "latitude": 29.3759,
+        "longitude": 47.9774
+    },
+    {
+        "near": "Amman",
+        "station": "Asia-36",
+        "latitude": 31.9539,
+        "longitude": 35.9106
+    },
+    {
+        "near": "Beirut",
+        "station": "Asia-37",
+        "latitude": 33.8938,
+        "longitude": 35.5018
+    },
+    {
+        "near": "Damascus",
+        "station": "Asia-38",
+        "latitude": 33.5138,
+        "longitude": 36.2765
+    },
+    {
+        "near": "Tbilisi",
+        "station": "Asia-39",
+        "latitude": 41.7151,
+        "longitude": 44.8271
+    },
+    {
+        "near": "Yerevan",
+        "station": "Asia-40",
+        "latitude": 40.1792,
+        "longitude": 44.4991
+    },
+    {
+        "near": "Baku",
+        "station": "Asia-41",
+        "latitude": 40.4093,
+        "longitude": 49.8671
+    },
+    {
+        "near": "Kabul",
+        "station": "Asia-42",
+        "latitude": 34.5553,
+        "longitude": 69.2075
+    },
+    {
+        "near": "Almaty",
+        "station": "Asia-43",
+        "latitude": 43.2220,
+        "longitude": 76.8512
+    },
+    {
+        "near": "Karachi",
+        "station": "Asia-44",
+        "latitude": 24.8607,
+        "longitude": 67.0011
+    },
+    {
+        "near": "Chennai",
+        "station": "Asia-45",
+        "latitude": 13.0827,
+        "longitude": 80.2707
+    },
+    {
+        "near": "Cairo",
+        "station": "Africa-1",
+        "latitude": 30.0444,
+        "longitude": 31.2357
+    },
+    {
+        "near": "Lagos",
+        "station": "Africa-2",
+        "latitude": 6.5244,
+        "longitude": 3.3792
+    },
+    {
+        "near": "Nairobi",
+        "station": "Africa-3",
+        "latitude": -1.286389,
+        "longitude": 36.817223
+    },
+    {
+        "near": "Johannesburg",
+        "station": "Africa-4",
+        "latitude": -26.204103,
+        "longitude": 28.047305
+    },
+    {
+        "near": "Addis Ababa",
+        "station": "Africa-5",
+        "latitude": 9.03,
+        "longitude": 38.74
+    },
+    {
+        "near": "Algiers",
+        "station": "Africa-6",
+        "latitude": 36.737232,
+        "longitude": 3.086472
+    },
+    {
+        "near": "Accra",
+        "station": "Africa-7",
+        "latitude": 5.603716,
+        "longitude": -0.186964
+    },
+    {
+        "near": "Kampala",
+        "station": "Africa-8",
+        "latitude": 0.347596,
+        "longitude": 32.58252
+    },
+    {
+        "near": "Casablanca",
+        "station": "Africa-9",
+        "latitude": 33.5731104,
+        "longitude": -7.5898434
+    },
+    {
+        "near": "Cape Town",
+        "station": "Africa-10",
+        "latitude": -33.9249,
+        "longitude": 18.4241
+    },
+    {
+        "near": "Dakar",
+        "station": "Africa-11",
+        "latitude": 14.692778,
+        "longitude": -17.446667
+    },
+    {
+        "near": "Dar es Salaam",
+        "station": "Africa-12",
+        "latitude": -6.792354,
+        "longitude": 39.208328
+    },
+    {
+        "near": "Kinshasa",
+        "station": "Africa-13",
+        "latitude": -4.441931,
+        "longitude": 15.266293
+    },
+    {
+        "near": "Abidjan",
+        "station": "Africa-14",
+        "latitude": 5.359951,
+        "longitude": -4.008256
+    },
+    {
+        "near": "Luanda",
+        "station": "Africa-15",
+        "latitude": -8.839988,
+        "longitude": 13.289437
+    },
+    {
+        "near": "Tripoli",
+        "station": "Africa-16",
+        "latitude": 32.8872094,
+        "longitude": 13.1913383
+    },
+    {
+        "near": "Bamako",
+        "station": "Africa-17",
+        "latitude": 12.639232,
+        "longitude": -8.002889
+    },
+    {
+        "near": "Antananarivo",
+        "station": "Africa-18",
+        "latitude": -18.8792,
+        "longitude": 47.5079
+    },
+    {
+        "near": "Harare",
+        "station": "Africa-19",
+        "latitude": -17.831773,
+        "longitude": 31.0419904
+    },
+    {
+        "near": "Khartoum",
+        "station": "Africa-20",
+        "latitude": 15.5006544,
+        "longitude": 32.5598994
+    },
+    {
+        "near": "Rabat",
+        "station": "Africa-21",
+        "latitude": 34.020882,
+        "longitude": -6.84165
+    },
+    {
+        "near": "Conakry",
+        "station": "Africa-22",
+        "latitude": 9.641185,
+        "longitude": -13.578401
+    },
+    {
+        "near": "Nouakchott",
+        "station": "Africa-23",
+        "latitude": 18.079021,
+        "longitude": -15.96574
+    },
+    {
+        "near": "Freetown",
+        "station": "Africa-24",
+        "latitude": 8.465677,
+        "longitude": -13.231722
+    },
+    {
+        "near": "Lusaka",
+        "station": "Africa-25",
+        "latitude": -15.3875259,
+        "longitude": 28.3228165
+    },
+    {
+        "near": "Gaborone",
+        "station": "Africa-26",
+        "latitude": -24.628207,
+        "longitude": 25.923147
+    },
+    {
+        "near": "Libreville",
+        "station": "Africa-27",
+        "latitude": 0.416197,
+        "longitude": 9.467268
+    },
+    {
+        "near": "Windhoek",
+        "station": "Africa-28",
+        "latitude": -22.560881,
+        "longitude": 17.065755
+    },
+    {
+        "near": "Bujumbura",
+        "station": "Africa-29",
+        "latitude": -3.373056,
+        "longitude": 29.918886
+    },
+    {
+        "near": "Moroni",
+        "station": "Africa-30",
+        "latitude": -11.717215,
+        "longitude": 43.247315
+    },
+    {
+        "near": "Djibouti",
+        "station": "Africa-31",
+        "latitude": 11.825138,
+        "longitude": 42.590275
+    },
+    {
+        "near": "Asmara",
+        "station": "Africa-32",
+        "latitude": 15.322877,
+        "longitude": 38.925052
+    },
+    {
+        "near": "Port Louis",
+        "station": "Africa-33",
+        "latitude": -20.348404,
+        "longitude": 57.552152
+    },
+    {
+        "near": "Maputo",
+        "station": "Africa-34",
+        "latitude": -25.96553,
+        "longitude": 32.58322
+    },
+    {
+        "near": "Mogadishu",
+        "station": "Africa-35",
+        "latitude": 2.046934,
+        "longitude": 45.318161
+    },
+    {
+        "near": "Yaoundé",
+        "station": "Africa-36",
+        "latitude": 3.848,
+        "longitude": 11.5021
+    },
+    {
+        "near": "Brazzaville",
+        "station": "Africa-37",
+        "latitude": -4.26336,
+        "longitude": 15.242885
+    },
+    {
+        "near": "Ouagadougou",
+        "station": "Africa-38",
+        "latitude": 12.3714277,
+        "longitude": -1.5196603
+    },
+    {
+        "near": "Juba",
+        "station": "Africa-39",
+        "latitude": 4.859363,
+        "longitude": 31.571251
+    },
+    {
+        "near": "Bangui",
+        "station": "Africa-40",
+        "latitude": 4.394674,
+        "longitude": 18.55819
+    },
+    {
+        "near": "Lilongwe",
+        "station": "Africa-41",
+        "latitude": -13.9626121,
+        "longitude": 33.7741199
+    },
+    {
+        "near": "Banjul",
+        "station": "Africa-42",
+        "latitude": 13.4548761,
+        "longitude": -16.5790323
+    },
+    {
+        "near": "Niamey",
+        "station": "Africa-43",
+        "latitude": 13.5116,
+        "longitude": 2.1254
+    },
+    {
+        "near": "N'Djamena",
+        "station": "Africa-44",
+        "latitude": 12.1048,
+        "longitude": 15.0445
+    },
+    {
+        "near": "Pretoria",
+        "station": "Africa-45",
+        "latitude": -25.7479,
+        "longitude": 28.2293
+    }
+
+]

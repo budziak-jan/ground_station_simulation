@@ -1,0 +1,11 @@
+{
+    "altitude": 600,   
+    "orbit_time": 5301,
+    "HPBW":90,
+    "time": 86164,
+    "tps": 2,
+    "min_encounter_time": 30,
+    "cities_file": "full_stations.json",
+    "satelites_file": "satelites.json",
+    "encounters_file": "encounters.json"
+}

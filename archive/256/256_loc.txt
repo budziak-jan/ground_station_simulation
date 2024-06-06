@@ -1,0 +1,11 @@
+Dla wszytkich stacji online:
+    Total sum: 164515000.0 Mb/doba
+
+Dla 10% straty stacji
+    Total sum: 150988050.0 Mb/doba
+
+Dla 20% straty stacji
+    Total sum: 134897650.0 Mb/doba
+
+Dla 30% straty stacji
+    Total sum: 112971300.0 Mb/doba
